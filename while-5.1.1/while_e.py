@@ -8,7 +8,7 @@ resultado = 1
 
 while expoente <= 15:
 
-    print(resultado)
+    print(f"3^{expoente} = {resultado:,}")
 
     expoente += 1
     resultado *= base
