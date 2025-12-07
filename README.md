@@ -1,2 +1,2 @@
-# Exercicios-manzano-js
-Exercícios de lógica de programação com JavaScript da apostila Manzano
+# Exercicios-Manzano-Python
+Exercícios de lógica de programação com Python da apostila Manzano
